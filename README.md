@@ -107,7 +107,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 **Vivekanand Ojha**  
 📧 Email: vivekanandojha09@gmail.com  
 🔗 GitHub: [@vivekOJ1129](https://github.com/vivekOJ1129)
-🔗 Linkedin: [Vivekanand Ojha](linkedin.com/in/vivekanand-ojha-485462289)
+🔗 Linkedin: [Vivekanand Ojha](https://www.linkedin.com/in/vivekanand-ojha-485462289/)
 
 ---
 
