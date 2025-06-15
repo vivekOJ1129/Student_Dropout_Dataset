@@ -20,7 +20,7 @@ To analyze and predict school dropout risk among students using statistical tech
 
 ## 🗃️ Dataset
 
-- File: `Tableau_Ready_Dropout_Dataset_LabeledBinary.csv`
+- File: `Student_Dropout_Dataset.csv`
 - Cleaned and preprocessed
 - Categorical labels preserved for Tableau
 - Binary dropout risk mapped as:
@@ -105,8 +105,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 📫 Author
 
 **Vivekanand Ojha**  
-📧 Email: vivekanandojha29@gmail.com  
+📧 Email: vivekanandojha09@gmail.com  
 🔗 GitHub: [@vivekOJ1129](https://github.com/vivekOJ1129)
+🔗 Linkedin: [Vivekanand Ojha](linkedin.com/in/vivekanand-ojha-485462289)
 
 ---
 
